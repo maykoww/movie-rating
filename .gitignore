@@ -1,0 +1,4 @@
+/images/movies/*
+!/images/movies/movie_cover.jpg
+/images/users/*
+!/images/users/user.png
